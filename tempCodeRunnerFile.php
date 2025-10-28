@@ -1,0 +1,2 @@
+<?php
+STR_PAD_LEFT
