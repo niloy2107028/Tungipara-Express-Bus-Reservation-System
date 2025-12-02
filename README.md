@@ -4,6 +4,10 @@
   <img src="Screenshots/Homepage.png" alt="Tungipara Express Homepage" width="800px" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   
   <p><i>A comprehensive bus ticket reservation system with real-time seat management</i></p>
+  
+  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE">
+    <img src="https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo">
+  </a>
 </div>
 
 A comprehensive web-based bus ticket reservation system developed as part of **CSE 3110: Database Systems Laboratory**. This project demonstrates advanced database design principles, real-time seat management, and automated schedule generation for a bus service company.
@@ -18,7 +22,6 @@ A comprehensive web-based bus ticket reservation system developed as part of **C
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
-- [Video Demo](#-video-demo)
 - [Features](#-features)
 - [Technology Stack](#-technology-stack)
 - [Database Architecture](#-database-architecture)
@@ -41,25 +44,6 @@ The **Tungipara Express Bus Reservation System** is a full-featured platform des
 - **Admin Portal**: Administrators manage buses, routes, schedules, and booking confirmations
 
 This project emphasizes database design fundamentals including normalization, entity relationships, constraints, and complex SQL queries while maintaining a user-friendly interface.
-
----
-
-## 🎥 Video Demo
-
-Watch the complete functionality demonstration of the Tungipara Express Bus Reservation System:
-
-[![Tungipara Express - Video Demo](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_VIDEO_LINK_HERE)
-
-> 📺 **Video includes**: Complete walkthrough of user registration, bus search, ticket booking, admin panel features, schedule management, and automatic schedule generation.
-
-<!-- Alternative: Embed video directly (uncomment when you have the link)
-<div align="center">
-  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="Video Demo" style="width:80%; border-radius: 10px;">
-  </a>
-  <p><i>Click the image above to watch the full demonstration video</i></p>
-</div>
--->
 
 ---
 
