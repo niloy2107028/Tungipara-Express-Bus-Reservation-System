@@ -1,5 +1,11 @@
 # 🚌 Tungipara Express - Bus Reservation System
 
+<div align="center">
+  <img src="Screenshots/homepage.png" alt="Tungipara Express Homepage" width="800px" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  
+  <p><i>A comprehensive bus ticket reservation system with real-time seat management</i></p>
+</div>
+
 A comprehensive web-based bus ticket reservation system developed as part of **CSE 3110: Database Systems Laboratory**. This project demonstrates advanced database design principles, real-time seat management, and automated schedule generation for a bus service company.
 
 ![PHP](https://img.shields.io/badge/PHP-8.0%2B-blue)
