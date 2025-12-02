@@ -1,7 +1,7 @@
 # 🚌 Tungipara Express - Bus Reservation System
 
 <div align="center">
-  <img src="Screenshots/homepage.png" alt="Tungipara Express Homepage" width="800px" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="Screenshots/Homepage.png" alt="Tungipara Express Homepage" width="800px" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   
   <p><i>A comprehensive bus ticket reservation system with real-time seat management</i></p>
 </div>
