@@ -3,16 +3,27 @@
 ### _A Database-Focused Project Demonstrating MySQL Fundamentals & Advanced Queries_
 
 <div align="center">
-
-    <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE">
-    <img src="https://img.shields.io/badge/_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo">
+  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE">
+    <img
+      src="https://img.shields.io/badge/_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+      alt="Watch Demo"
+    />
   </a>
-  <img src="Screenshots/Homepage.png" alt="Tungipara Express Homepage" width="800px" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  
-  <p><i>A comprehensive bus ticket reservation system with real-time seat management</i></p>
-  
+  <img
+    src="Screenshots/Homepage.png"
+    alt="Tungipara Express Homepage"
+    width="800px"
+    style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1)"
+  />
 
+  <p>
+    <i
+      >A comprehensive bus ticket reservation system with real-time seat
+      management</i
+    >
+  </p>
 </div>
+
 
 A comprehensive web-based bus ticket reservation system developed as part of **CSE 3110: Database Systems Laboratory**. This project demonstrates advanced database design principles, real-time seat management, and automated schedule generation for a bus service company.
 
