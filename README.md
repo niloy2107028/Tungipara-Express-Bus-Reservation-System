@@ -6,7 +6,7 @@
   <p><i>A comprehensive bus ticket reservation system with real-time seat management</i></p>
   
   <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE">
-    <img src="https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo">
+    <img src="https://img.shields.io/badge/_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo">
   </a>
 </div>
 
