@@ -3,7 +3,7 @@
 ### _A Database-Focused Project Demonstrating MySQL Fundamentals & Advanced Queries_
 
 <div align="center">
-  <a href="YOUR_YOUTUBE_VIDEO_LINK_HERE">
+  <a href="https://youtu.be/YKcz1F6lPcs">
     <img
       src="https://img.shields.io/badge/_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
       alt="Watch Demo"
